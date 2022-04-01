@@ -6,7 +6,7 @@ ORM: to built a new backend for an e-commerce site in order to manage the site d
 
 ## Demonstration
 
-[Link to the demo](#link to the demo)
+[Link to the demo](#link-to-the demo)
 
 ## Screenshots
 
