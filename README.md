@@ -12,7 +12,8 @@ ORM: to built a new backend for an e-commerce site in order to manage the site d
 
 ## Screenshots
 
-Assets\Screenshot (34).png
+![Screenshot (34)](https://user-images.githubusercontent.com/78886789/161364506-614f9d72-e25a-4815-b8a6-c29b648e10cb.png)
+
 
 ## License
 
