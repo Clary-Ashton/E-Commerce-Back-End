@@ -6,6 +6,8 @@ ORM: to built a new backend for an e-commerce site in order to manage the site d
 
 ## Technologies used
 
+orm, sequelize, mysql, express.js, insomnia.
+
 ## Demonstration
 
 [Link to the demo](#link-to-the-demo)
