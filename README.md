@@ -28,3 +28,11 @@ Mysql
 ## License
 
 This Portfolio is licensed under the [MIT License](./LICENSE)
+
+## Created by:
+
+This App was created by Clary Nsiku Mawangi
+
+## Contact Me:
+
+[Clary Mawangi](http://github.com/Clary-Ashton)
