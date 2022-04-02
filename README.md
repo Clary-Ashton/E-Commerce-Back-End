@@ -14,6 +14,8 @@ Express.js
 
 Insomnia
 
+Mysql
+
 ## Demonstration
 
 [Link to the demo](#link-to-the-demo)
